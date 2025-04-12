@@ -44,3 +44,12 @@ The script will execute the simulation and generate plots of the magnetic field.
 
 ---
 
+## License
+
+This code is released under the MIT License.  
+See the [LICENSE](LICENSE) file for more information.
+
+## Contributing
+
+Contributions are welcome!  
+Feel free to submit pull requests or open issues to report bugs or suggest improvements.
